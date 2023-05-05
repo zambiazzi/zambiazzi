@@ -3,7 +3,6 @@
 - 🔭 Atualmente estou buscando minha primeira experiência profissional como desenvolvedor
 - 🌱 Atualmente estou estudando Java e MySQL
 - 💻 Meu objetivo futuramente é trabalhar com isso e ser um grande profissional na área
-- 📫 email: lucaszambiazzi194@gmail.com
 
 
 Linguagens onde tenho conhecimento:
