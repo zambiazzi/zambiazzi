@@ -1,7 +1,7 @@
 ### Eai! Meu nome é Lucas
 
 - 🔭 Atualmente estou buscando minha primeira experiência profissional como desenvolvedor
-- 🌱 Estudando Java e MySQL
+- 🌱 Estudando Java
 - 💻 Meu objetivo futuramente é trabalhar com isso e ser um grande profissional na área
 
 
