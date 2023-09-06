@@ -1,9 +1,7 @@
-### Eai! Meu nome é Lucas
+### Hi there! My name is Lucas
 
-- 🔭 Atualmente estou buscando minha primeira experiência profissional como desenvolvedor
-- 🌱 Estudando JavaScript com TypeScript
-- 💻 Meu objetivo futuramente é trabalhar com isso e ser um grande profissional na área
-
+- 🔭 I'm currently seeking my first profissional oportunity as a professional Junior Software Developer 
+- 🌱 Studyng JavaScript and TypeScript
 
 Linguagens onde tenho conhecimento:
 <div align="center" style="display: inline_block"><br>    
