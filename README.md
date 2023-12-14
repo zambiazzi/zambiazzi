@@ -3,7 +3,7 @@
 - 🔭 I'm currently seeking my first profissional oportunity as a professional Junior Software Developer 
 - 🌱 Studyng JavaScript with Node.js
 
-Languages where I have knowledge:
+Languages where I have more expertise.
 <div align="center" style="display: inline_block"><br>    
   <i class="devicon-javascript-plain colored"></i>
   <img align="left" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
