@@ -1,6 +1,6 @@
 ### Hi there! My name is Lucas
 
-- 🔭 I'm currently seeking my first profissional oportunity as a professional Junior Software Developer 
+- 🔭 I'm currently seeking my first profissional oportunity as a professional Software Developer 
 - 🌱 Studyng JavaScript with Node.js
 
 Languages and technologies where I have more expertise.
