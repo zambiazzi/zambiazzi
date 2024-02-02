@@ -1,7 +1,7 @@
 ### Hi there! My name is Lucas
 
 - 🔭 I'm currently seeking my first profissional oportunity as a professional Software Developer 
-- 🌱 Studyng JavaScript with Node.js
+- 🌱 Studyng React and Typescript
 
 Languages and technologies where I have more expertise.
 <div align="center" style="display: inline_block"><br>    
