@@ -1,6 +1,7 @@
 ### Hi there! My name is Lucas
 
-- 🔭 I'm currently seeking my first profissional oportunity as a professional Software Developer 
+- 🔭 I'm currently seeking my first profissional oportunity as a professional Software Developer
+- 📚 Studying for a Bachelor's degree in Software Engineering (1/8)
 - 🌱 Studyng C#
 
 Languages and technologies where I have more expertise.
@@ -10,10 +11,6 @@ Languages and technologies where I have more expertise.
   <img align="left" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="left" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
   <img align="left" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-                    
-          
-          
-          
 </div>
 
 <div align="center"> 
