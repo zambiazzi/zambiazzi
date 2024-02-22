@@ -1,13 +1,17 @@
 ### Hi there! My name is Lucas
 
 - 🔭 I'm currently seeking my first profissional oportunity as a professional Software Developer 
-- 🌱 Studyng React and Typescript
+- 🌱 Studyng Java
 
 Languages and technologies where I have more expertise.
 <div align="center" style="display: inline_block"><br>    
   <i class="devicon-javascript-plain colored"></i>
   <img align="left" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> 
-  <img align="left" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="left" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img align="left" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img align="left" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+                    
+          
           
           
 </div>
