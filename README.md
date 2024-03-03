@@ -1,7 +1,7 @@
 ### Hi there! My name is Lucas
 
 - 🔭 I'm currently seeking my first profissional oportunity as a professional Software Developer
-- 📚 Studying for a Bachelor's degree in Software Engineering (1/8)
+- 📚 Studying for a Technical degree in Software Development 
 - 🌱 Studyng C#
 
 Languages and technologies where I have more expertise.
