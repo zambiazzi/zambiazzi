@@ -4,7 +4,7 @@
 - 📕 Técnico em Desenvolvimento de Sistemas (1/4)
 - 📗 Bacharel em Engenharia de Software (1/8)
 
-Linguagens e tecnologias onde tenho mais experiência:
+Linguagens e tecnologias onde tenho mais conhecimento:
 <div align="center" style="display: inline_block"><br>    
   <i class="devicon-javascript-plain colored"></i>
   <img align="left" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> 
