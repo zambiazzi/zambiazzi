@@ -1,8 +1,8 @@
-### Hi there! My name is Lucas
+### Eai! Meu nome é Lucas
 
-- 🔭 I'm currently seeking my first profissional oportunity as a professional Software Developer
-- 📚 Studying for a Technical degree in Software Development 
-- 🌱 Studyng C#
+- 🔭 No momento estou em busca da minha primeira oportunidade como Desenvolvedor de Software
+- 📕 Técnico em Desenvolvimento de Sistemas (1/4)
+- 📗 Bacharel em Engenharia de Software (1/8)
 
 Languages and technologies where I have more expertise.
 <div align="center" style="display: inline_block"><br>    
