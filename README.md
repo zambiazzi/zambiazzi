@@ -4,12 +4,7 @@
 - 📕 Técnico em Desenvolvimento de Sistemas (1/4)
 - 📗 Bacharel em Engenharia de Software (1/8)
 
-Linguagens e tecnologias onde tenho mais conhecimento:
-<div align="center" style="display: inline_block"><br>    
-  <i class="devicon-javascript-plain colored"></i>
-</div>
-
-<div align="center"> 
+<div align="left"> 
   <a href = "mailto:lucaszambiazzi194@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-zambiazzi-brandino-724555239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
