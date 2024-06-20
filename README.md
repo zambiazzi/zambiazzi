@@ -7,11 +7,6 @@
 Linguagens e tecnologias onde tenho mais conhecimento:
 <div align="center" style="display: inline_block"><br>    
   <i class="devicon-javascript-plain colored"></i>
-  <img align="left" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> 
-  <img align="left" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img align="left" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-  <img align="left" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img align="left" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg" />
 </div>
 
 <div align="center"> 
