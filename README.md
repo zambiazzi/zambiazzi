@@ -1,6 +1,6 @@
 ### Eai! Meu nome é Lucas
 
-- 🔭 Atualmente estou atuando no cargo de Auxiliar de TI na <a href="https://www.razonet.com.br/" target="_blanck">@razonet</a>, como primeira experiência na área de desenvolvimento.
+- 🔭 Atualmente estou atuando no cargo de Auxiliar de TI na <a href="https://www.razonet.com.br/" target="_blank">@razonet</a>, como primeira experiência na área de desenvolvimento.
 - 📕 Técnico em Desenvolvimento de Sistemas (2/4)
 - 📗 Bacharel em Engenharia de Software (2/8)
 
