@@ -12,6 +12,8 @@
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby">
   <img src="https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Rails">
   <img src="https://img.shields.io/badge/Python-366F9F?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/MySQL-E37630?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  
 </p>
 
 ---
