@@ -2,8 +2,8 @@
 
 
 - 🔭 Atualmente estou atuando no cargo de Auxiliar de TI na <a href="https://www.razonet.com.br/" target="_blank">@razonet</a>, como primeira experiência na área de desenvolvimento.
-- 📕 Técnico em Desenvolvimento de Sistemas (2/4)
-- 📗 Bacharel em Engenharia de Software (2/8)
+- 📕 Técnico em Desenvolvimento de Sistemas (3/4)
+- 📗 Bacharel em Engenharia de Software (3/8)
 
 ---
 
@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Rails">
   <img src="https://img.shields.io/badge/Python-366F9F?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/MySQL-23638D?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  
 </p>
 
 ---
