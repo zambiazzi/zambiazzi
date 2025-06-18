@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Rails">
   <img src="https://img.shields.io/badge/MySQL-23638D?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/-UiPath-%23FF6C37?style=for-the-badge&logo=uipath&logoColor=white" alt="UiPath">
-
 </p>
 
 ---
