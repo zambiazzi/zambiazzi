@@ -2,8 +2,8 @@
 
 
 - 🔭 Atualmente estou atuando no cargo de Auxiliar de TI na <a href="https://www.razonet.com.br/" target="_blank">@razonet</a>, como primeira experiência na área de desenvolvimento.
-- 📕 Técnico em Desenvolvimento de Sistemas (3/4)
-- 📗 Bacharel em Engenharia de Software (3/8)
+- 📕 Técnico em Desenvolvimento de Sistemas (4/4)
+- 📗 Bacharel em Engenharia de Software (4/8)
 
 ---
 
