@@ -2,19 +2,18 @@
 
 
 - 🔭 Atualmente estou atuando no cargo de Auxiliar de TI na <a href="https://www.razonet.com.br/" target="_blank">@razonet</a>, como primeira experiência na área de desenvolvimento.
-- 📕 Técnico em Desenvolvimento de Sistemas (4/4)
-- 📗 Bacharel em Engenharia de Software (4/8)
+- 📕 <a href="https://drive.google.com/file/d/1wmtFTeWM8BGZlT11lZCC8VOKRrZpZwnX/view" target="_blank">Técnico em Desenvolvimento de Sistemas</a>
+- 📗 Bacharel em Engenharia de Software (5/8)
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby">
   <img src="https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Rails">
+  <br>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/MySQL-23638D?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/-UiPath-%23FF6C37?style=for-the-badge&logo=uipath&logoColor=white" alt="UiPath">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgresql">
 </p>
 
 ---
