@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=7C0902&text=Eai%20👋%20,%20meu%20nome%20é%20Lucas.&fontSize=45&fontColor=ffffff&fontAlignY=35&height=200)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0B1C2D&text=Eai%20%F0%9F%91%8B%20,%20meu%20nome%20%C3%A9%20Lucas.&fontSize=45&fontColor=ffffff&fontAlignY=35&height=200)
 
 
 - 🔭 Atualmente estou atuando no cargo de Auxiliar de TI na <a href="https://www.razonet.com.br/" target="_blank">@razonet</a>, como primeira experiência na área de desenvolvimento.
