@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0B1C2D&text=Eai%20%F0%9F%91%8B%20,%20meu%20nome%20%C3%A9%20Lucas.&fontSize=45&fontColor=ffffff&fontAlignY=35&height=200)
 
 
-- 🔭 Atualmente estou atuando no cargo de Auxiliar de TI na <a href="https://www.razonet.com.br/" target="_blank">@razonet</a>, como primeira experiência na área de desenvolvimento.
+- 🔭 Atualmente estou atuando no cargo de Analista na <a href="https://www.razonet.com.br/" target="_blank">@razonet</a>, como primeira experiência na área de desenvolvimento.
 - 📕 <a href="https://drive.google.com/file/d/1wmtFTeWM8BGZlT11lZCC8VOKRrZpZwnX/view" target="_blank">Técnico em Desenvolvimento de Sistemas</a>
 - 📗 Bacharel em Engenharia de Software (5/8)
 
