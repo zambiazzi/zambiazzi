@@ -4,7 +4,7 @@
 - 🔭 Atualmente estou atuando no cargo de Analista na <a href="https://www.razonet.com.br/" target="_blank">@razonet</a>, como primeira experiência na área de desenvolvimento.
 - 📕 <a href="https://drive.google.com/file/d/1wmtFTeWM8BGZlT11lZCC8VOKRrZpZwnX/view" target="_blank">Técnico em Desenvolvimento de Sistemas</a>
 - 📗 Bacharel em Engenharia de Software (6/8)
-- 💼 <a href="https://zambiazzi.vercel.app" target="_blank">Portfolio</a>(https://zambiazzi.vercel.app)
+- 💼 <a href="https://zambiazzi.vercel.app" target="_blank">Portfolio</a>
 ---
 
 <p align="center">
